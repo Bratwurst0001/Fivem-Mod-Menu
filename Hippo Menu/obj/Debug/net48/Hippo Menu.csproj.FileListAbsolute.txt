@@ -1,0 +1,24 @@
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo_Menu.Form1.resources
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo_Menu.Menu.resources
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.csproj.GenerateResource.cache
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.AssemblyInfo.cs
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Hippo Menu.exe.config
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Hippo Menu.exe
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Hippo Menu.pdb
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Guna.UI2.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.csproj.CopyComplete
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.exe
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\obj\Debug\net48\Hippo Menu.pdb
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Memory.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\Squalr.Engine.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Drawing.Common.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Micro\source\repos\Hippo Menu\Hippo Menu\bin\Debug\net48\System.Security.Principal.Windows.dll

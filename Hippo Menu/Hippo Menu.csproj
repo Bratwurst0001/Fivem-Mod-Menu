@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>Hippo_Menu</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.3.4" />
+    <PackageReference Include="Memory.dll.x64" Version="1.2.24" />
+    <PackageReference Include="Squalr.Engine" Version="2.3.0.1" />
+  </ItemGroup>
+
+</Project>

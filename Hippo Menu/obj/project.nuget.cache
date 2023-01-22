@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RbBR+qtwoaXt607yeML16MeiJ3sf+CW503Sh+KeMMYs1A+Ws25NqvxAB94IXfFS6rKk5R53ROwJKR4hah1dZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micro\\source\\repos\\Hippo Menu\\Hippo Menu\\Hippo Menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micro\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.4\\guna.ui2.winforms.2.0.3.4.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\memory.dll.x64\\1.2.24\\memory.dll.x64.1.2.24.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.csharp\\4.5.0-preview2-26406-04\\microsoft.csharp.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\squalr.engine\\2.3.0.1\\squalr.engine.2.3.0.1.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0-preview2-26406-04\\system.configuration.configurationmanager.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.drawing.common\\4.5.0-preview2-26406-04\\system.drawing.common.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.numerics.vectors\\4.5.0-preview2-26406-04\\system.numerics.vectors.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.accesscontrol\\4.5.0-preview2-26406-04\\system.security.accesscontrol.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.permissions\\4.5.0-preview2-26406-04\\system.security.permissions.4.5.0-preview2-26406-04.nupkg.sha512",
+    "C:\\Users\\Micro\\.nuget\\packages\\system.security.principal.windows\\4.5.0-preview2-26406-04\\system.security.principal.windows.4.5.0-preview2-26406-04.nupkg.sha512"
+  ],
+  "logs": []
+}
